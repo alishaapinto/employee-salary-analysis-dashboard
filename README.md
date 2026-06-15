@@ -71,13 +71,13 @@ Displays male and female employee count.
 
 ### Dashboard View
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ### Employee Data and Pivot Tables
 
-![Employee Data](employee_data.png)
+![Employee Data](Employee_Data.png)
 
 ---
 
