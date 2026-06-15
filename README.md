@@ -96,4 +96,4 @@ Through this project, I learned:
 
 ## Author
 
-Alisha Pinto
+Alisha A Pinto
